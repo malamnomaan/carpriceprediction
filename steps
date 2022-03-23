@@ -1,0 +1,16 @@
+1. Created a new environment :- car_prediction 3.9
+2. working directory ;- jupyter notebook
+3. Load the dataset using pandas
+4. Check Unique in categorical feature
+5. Check Missing Values
+6. handle temporal variables (year) to (no of years)
+7. Drop columns which are not required (car_name, year,current_year)
+8. One Hot Encoding (Because we have small dataset)
+9. Corelation df.corr()
+10. Visualize pairplot with seaborn
+11. Visualize heatmap with matplotlib
+12. Dependent and Independent feature
+13. Feature Importance with ensemble techniques (Extra Tree Regressor)
+14. train test split
+15. Random Forest Regressor
+16. Hyperparameter Tuning
